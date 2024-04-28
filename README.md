@@ -1,6 +1,7 @@
 # Python Teaching Files
-These are the Jupyter Notebook files I am writing to teach Python to my data science class.
 
-Hopefully they help go over what I taught in class. :)
+These are the files I'm writing to teach Python.
+
+Hopefully they help go over the materials I cover in class. :)
 
 I'll try to keep adding the files here as I write them. Feel free to remind me if I forget!
